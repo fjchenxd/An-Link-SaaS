@@ -1,0 +1,24 @@
+{
+    "saasApp": {
+        "sirqulAccount" : {
+            "home": {
+                "title": "Sirqul Accounts",
+                "createLabel": "建立一筆新的 Sirqul Account",
+                "createOrEditLabel": "建立或編輯 Sirqul Account",
+                "search": "搜尋 Sirqul Account"
+            },
+            "created": "新的 Sirqul Account 建立成功，識別碼為 {{ param }}",
+            "updated": "識別碼為 {{ param }} 的 Sirqul Account 更新成功",
+            "deleted": "識別碼為 {{ param }} 的 Sirqul Account 刪除成功",
+            "delete": {
+                "question": "您確定要刪除 Sirqul Account {{ id }} 嗎?"
+            },
+            "detail": {
+                "title": "Sirqul Account"
+            },
+            "name": "Name",
+            "username": "Username",
+            "password": "Password"
+        }
+    }
+}

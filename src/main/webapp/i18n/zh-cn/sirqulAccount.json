@@ -1,0 +1,24 @@
+{
+    "saasApp": {
+        "sirqulAccount" : {
+            "home": {
+                "title": "Sirqul Accounts",
+                "createLabel": "Create a new Sirqul Account",
+                "createOrEditLabel": "Create or edit a Sirqul Account",
+                "search": "Search for Sirqul Account"
+            },
+            "created": "A new Sirqul Account is created with identifier {{ param }}",
+            "updated": "A Sirqul Account is updated with identifier {{ param }}",
+            "deleted": "A Sirqul Account is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Sirqul Account {{ id }}?"
+            },
+            "detail": {
+                "title": "Sirqul Account"
+            },
+            "name": "Name",
+            "username": "Username",
+            "password": "Password"
+        }
+    }
+}
